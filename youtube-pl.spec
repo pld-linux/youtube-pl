@@ -2,7 +2,7 @@ Summary:	youtube-pl plays Youtube videos from the commandline
 Summary(hu.UTF-8):	youtube-pl Youtube videókat játszik a parancssorból
 Name:		youtube-pl
 Version:	20090321
-Release:	0.1
+Release:	1
 License:	GPL v3
 Group:		Applications/Multimedia
 Source0:	http://ronja.twibright.com/utils/%{name}
